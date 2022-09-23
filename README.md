@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sithu-go
+- 👋 Hi, I’m Sithu Soe
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning microservice and go
 
