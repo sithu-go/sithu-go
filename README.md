@@ -5,18 +5,19 @@
 <h1 align="center">☘️ ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,js,bash,linux,mysql&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=go,js,bash,linux&theme=dark&perline=5" />
     </br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,grpc&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,mongo&theme=dark&perline=5" />
     </br>
     <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height=50>
     <img src="https://grpc.io/img/logos/grpc-logo.png" height=50>
     <img src="https://avatars.githubusercontent.com/u/10721323?s=200&v=4" height=50>
+    <img src="https://avatars.githubusercontent.com/u/33584194?s=200&v=4" height=50>  
     
   </a>
 </p>
 
-<br>
+<br/>
 
 <h1 align="center">⭐️ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h1>
 <div align="center">
