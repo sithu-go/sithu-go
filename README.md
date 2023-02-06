@@ -14,8 +14,8 @@
     <img src="https://avatars.githubusercontent.com/u/10721323?s=200&v=4" height=50>
     <img src="https://avatars.githubusercontent.com/u/33584194?s=200&v=4" height=50>
     <img src="https://avatars.githubusercontent.com/u/15127678?s=200&v=4" height=50>
-    
-   
+    <br/>
+    <img src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/go-zero.png" height=50>   
   </a>
 </p>
 
