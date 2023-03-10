@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sithu Soe
-- 👀 I’m interested in Go and ask stupid questions.
+- 👀 I’m interested in Blockchain and ask stupid questions.
 - 🌱 I’m currently learning and developing backend using golang and microservice
 
 <h1 align="center">☘️ ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ</h1>
