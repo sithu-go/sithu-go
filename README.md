@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sithu Soe
 - 👀 I’m interested in Blockchain and ask stupid questions.
 - 🌱 I’m currently learning and developing backend using golang and microservice
-- 🌊 I am under the water. Please help me.
+- 🌊 I am under the water. Please help me. 
 
 <h1 align="center">☘️ ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ</h1>
 <p align="center">
